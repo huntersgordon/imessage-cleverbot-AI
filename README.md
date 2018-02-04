@@ -2,7 +2,7 @@
 
 1. ```brew install imessage-ruby```
 
-2. change lines 248, 268, and 251 of clickie.cpp to the directory of the messages "Archive" folder
+2. change lines 248, 268, and 251 of clickie.cpp to the directory of your messages "Archive" folder
 
 3. obtain a cleverbot api key from https://www.cleverbot.com/api/
 
